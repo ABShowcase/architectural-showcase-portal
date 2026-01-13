@@ -1,0 +1,8 @@
+{
+  "name": "architectural-showcase-portal",
+  "version": "1.0.0",
+  "description": "Architectural Showcase Submission Portal",
+  "engines": {
+    "node": "18.x"
+  }
+}
